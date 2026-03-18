@@ -1,16 +1,60 @@
-## Hi there 👋
+# 👋 Hi, I'm Judah
 
-<!--
-**Judahforge/Judahforge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Cloud/DevOps Engineer | Building Scalable Systems
 
-Here are some ideas to get you started:
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-Container-blue?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=for-the-badge&logo=kubernetes)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-black?style=for-the-badge&logo=githubactions)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?style=for-the-badge&logo=terraform)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+Cloud/DevOps Engineer passionate about automating infrastructure, building reliable systems, and deploying scalable applications in cloud environments.
+
+I focus on turning manual processes into automated pipelines and ensuring systems are secure, efficient, and production-ready.
+
+---
+
+## 🔧 What I'm Working On
+
+- Deploying applications on **AWS (EC2, S3)**
+- Automating workflows using **GitHub Actions**
+- Containerizing apps with **Docker**
+- Learning and implementing **Kubernetes**
+- Writing Infrastructure as Code with **Terraform**
+
+---
+
+## 🛠️ Tech Stack
+
+**Cloud:** AWS  
+**Containers:** Docker, Kubernetes  
+**CI/CD:** GitHub Actions, Jenkins  
+**IaC:** Terraform, Ansible  
+**Languages:** Python, Bash, Node.js  
+
+---
+
+## 📊 GitHub Stats
+
+![Judah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Judahforge&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Judahforge&layout=compact)
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: Oyekunlejudah@gmail.com  
+- 💼 LinkedIn: www.linkedin.com/in/judah-oyekunle-devops-engineer 
+
+---
+
+## ⚡ What I'm Focused On
+
+- Building production-ready DevOps pipelines  
+- Improving deployment speed and reliability  
+- Mastering cloud infrastructure and automation  
